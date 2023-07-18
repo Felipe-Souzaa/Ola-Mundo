@@ -2,7 +2,7 @@
 ***
 Primeiro repositório do curso do **Git e GitHub**
 
-Repositório criando nas aulas do Guanabara!
+Repositório criando nas aulas do **Guanabara**!
 
 Essa linha eu adicionei diretamente do site do GitHub
 ***
@@ -14,7 +14,7 @@ Lista numeradas:
 3. Terceira linha numerada teste
    1. Quarta linha numerada como incremento da terceira
 
-***
+**
 
 Lista demarcada:
 * Primeira linha demarcada teste
