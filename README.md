@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório do curso do Git e GIHub
+Primeiro repositório do curso do **Git e GitHub**
 
 Repositório criando nas aulas do Guanabara!
 
