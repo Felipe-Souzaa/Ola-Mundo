@@ -16,9 +16,9 @@ lista numeradas:
 ***
 lista demarcada:
 * Teste1
-* Teste2
+- Teste2
 * Teste3
-* Teste4
+- Teste4
    * Teste5
 
 Lista de tarefa:
