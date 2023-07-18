@@ -22,8 +22,8 @@ lista demarcada:
    * Teste5
 
 Lista de tarefa:
-[] Fazer o cadastro no GitHub
-[] Baixar o Git Desktop
-[] Criar um repositório
-[] Deixar a criatividade fluir
-[] Criar muitos repositórios
+- [] Fazer o cadastro no GitHub
+* [] Baixar o Git Desktop
+- [] Criar um repositório
+* [] Deixar a criatividade fluir
+- [] Criar muitos repositórios
