@@ -27,7 +27,7 @@ Lista demarcada:
 
 Lista de tarefa:
 - [x] Fazer o cadastro no GitHub
-* [ ] Baixar o Git Desktop
-- [ ] Criar um repositório
+* [x] Baixar o Git Desktop
+- [x] Criar um repositório
 * [x] Deixar a criatividade fluir
-- [ ] Criar muitos repositórios
+- [] Criar muitos repositórios
