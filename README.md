@@ -4,7 +4,7 @@ Primeiro repositório do curso do **Git e GitHub**
 
 Repositório criando nas aulas do **Guanabara**!
 
-Essa linha eu adicionei diretamente do site do GitHub
+Essa linha eu adicionei diretamente do site do **GitHub**
 ***
 **Aprendendo a usar a linguagem Markdown**
 
@@ -30,4 +30,9 @@ Lista de tarefa:
 * [x] Baixar o Git Desktop
 - [x] Criar um repositório
 * [x] Deixar a criatividade fluir
-- [] Criar muitos repositórios
+- [ ] Criar muitos repositórios
+
+***
+
+Inserindo tabela:
+{fdfsfsfsfsd} 
