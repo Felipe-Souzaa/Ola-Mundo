@@ -9,10 +9,10 @@ Essa linha eu adicionei diretamente do site do GitHub
 **Aprendendo a usar a linguagem Markdown**
 
 Lista numeradas:
-1. Primeira linha teste
-2. Segunda linha teste
-3. Terceira linha teste
-   1. Quarta linha como incremento da terceira
+1. Primeira linha numerada teste
+2. Segunda linha numerada teste
+3. Terceira linha numerada teste
+   1. Quarta linha numerada como incremento da terceira
 
 ***
 
