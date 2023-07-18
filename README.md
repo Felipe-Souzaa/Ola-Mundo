@@ -14,7 +14,7 @@ Lista numeradas:
 3. Terceira linha numerada teste
    1. Quarta linha numerada como incremento da terceira
 
-**
+***
 
 Lista demarcada:
 * Primeira linha demarcada teste
