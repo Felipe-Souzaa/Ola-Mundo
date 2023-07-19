@@ -64,3 +64,6 @@ else:
 Emoji | Código
 ---|---|
 :heart: | `:heart:`
+:yawning_face: | `:yawning_face:`
+:sunglasses: | `:sunglasses:`
+:smile: | `:smile:`
