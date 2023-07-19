@@ -35,4 +35,10 @@ Lista de tarefa:
 ***
 
 Inserindo tabela:
-{fdfsfsfsfsd} 
+# Criando uma tabela de nota de alunos
+Numero | Nome | Nota
+---|---|---|
+01 | Ana | 9.3
+02 | Bruno | 7.6
+03 | Carlos | 10
+05 | Fabio | 8.6
