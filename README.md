@@ -6,7 +6,7 @@ Repositório criando nas aulas do **Guanabara**!
 
 Essa linha eu adicionei diretamente do site do **GitHub**
 ***
-**Aprendendo a usar a linguagem Markdown**
+# **Aprendendo a usar a linguagem Markdown**
 
 ## Lista numeradas:
 1. Primeira linha numerada teste
