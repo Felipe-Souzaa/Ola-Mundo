@@ -35,7 +35,7 @@ Lista de tarefa:
 ***
 
 Inserindo tabela:
-# Criando uma tabela de nota de alunos
+## Criando uma tabela de nota de alunos
 Numero | Nome | Nota
 ---|---|---|
 01 | Ana | 9.3
