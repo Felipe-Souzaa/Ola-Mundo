@@ -8,7 +8,7 @@ Essa linha eu adicionei diretamente do site do **GitHub**
 ***
 **Aprendendo a usar a linguagem Markdown**
 
-Lista numeradas:
+## Lista numeradas:
 1. Primeira linha numerada teste
 2. Segunda linha numerada teste
 3. Terceira linha numerada teste
@@ -16,7 +16,7 @@ Lista numeradas:
 
 ***
 
-Lista demarcada:
+## Lista demarcada:
 * Primeira linha demarcada teste
 - Segunda linha demarcada teste
 * Terceira linha demarcada teste
@@ -25,7 +25,7 @@ Lista demarcada:
 
 ***
 
-Lista de tarefa:
+## Lista de tarefa:
 - [x] Fazer o cadastro no GitHub
 * [x] Baixar o Git Desktop
 - [x] Criar um repositório
@@ -34,8 +34,8 @@ Lista de tarefa:
 
 ***
 
-Inserindo tabela:
-## Criando uma tabela de nota de alunos
+## Inserindo tabela:
+### Criando uma tabela de nota de alunos
 Numero | Nome | Nota
 ---|---|---|
 01 | Ana | 9.3
