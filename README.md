@@ -61,4 +61,6 @@ else:
     print(f"O aluno {aluno} foi reprovado por ter ficado com {media} de media.") 
 ```
 ## Inserindo emoji
-Ola :+1
+Emoji | Código
+---|---|
+:heart: | `:heart:`
