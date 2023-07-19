@@ -42,3 +42,20 @@ Numero | Nome | Nota
 02 | Bruno | 7.6
 03 | Carlos | 10
 05 | Fabio | 8.6
+
+***
+
+## Inserindo linhas de códigos e blocos de códigos:
+Gosto muito de JavaScript, aprendi que o ´document.getElementById()´ é muito importante!
+
+Gosto muito do Python, pela facilidade dele, faz tempo que eu não faço um programa em Python mas vou tentar:
+´´´
+aluno = str(input("Insira o nome do aluno: "))
+nota1 = float(input("Digite a nota: "))
+nota2 = float(input("Digite a segunda nota: "))
+
+media = (nota1 + nota2) / 2
+
+print(f"O aluno {aluno} ficou com {media} de media.")
+
+´´´
