@@ -46,11 +46,10 @@ Numero | Nome | Nota
 ***
 
 ## Inserindo linhas de códigos e blocos de códigos:
-Gosto muito de JavaScript, aprendi que o ´document.getElementById()´ é muito importante!
+Gosto muito de JavaScript, aprendi que o `document.getElementById()` é muito importante!
 
 Gosto muito do Python, pela facilidade dele, faz tempo que eu não faço um programa em Python mas vou tentar:
 ```
-
 aluno = str(input("Insira o nome do aluno: "))
 nota1 = float(input("Digite a nota: "))
 nota2 = float(input("Digite a segunda nota: "))
