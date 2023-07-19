@@ -60,6 +60,8 @@ if media >= 6:
 else:
     print(f"O aluno {aluno} foi reprovado por ter ficado com {media} de media.") 
 ```
+***
+
 ## Inserindo emoji
 Emoji | Código
 ---|---|
@@ -67,3 +69,8 @@ Emoji | Código
 :yawning_face: | `:yawning_face:`
 :sunglasses: | `:sunglasses:`
 :smile: | `:smile:`
+
+***
+
+## Inserindo imagem:
+![GitHub](https://t.ctcdn.com.br/JyYOtyrVhIK_AagtBY2lKWT4otg=/135x0:1858x971/512x288/smart/filters:format(webp)/i329956.jpeg)
